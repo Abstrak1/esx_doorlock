@@ -1,7 +1,7 @@
 # esx_doorlock
 This is a door lock script for ESX, which is used to lock certain doors that shouldn't be accessable by normal citizens.
 
-This script was originally developed by Darklandz, later modified by JokeDevil and others.
+This script was originally developed by [Darklandz](https://forum.cfx.re/u/darklandz/), later modified by JokeDevil and others.
 
 ### Features
 - Well optimized script
@@ -19,3 +19,9 @@ This script was originally developed by Darklandz, later modified by JokeDevil a
 ```
 start esx_doorlock
 ```
+
+
+### I DON'T PROVIDE ANY SUPPORT FOR THIS ANYMORE...
+### I DON'T PROVIDE ANY SUPPORT FOR THIS ANYMORE...
+### I DON'T PROVIDE ANY SUPPORT FOR THIS ANYMORE...
+### I DON'T PROVIDE ANY SUPPORT FOR THIS ANYMORE...
